@@ -19,7 +19,7 @@
         <p>Follow these steps to run the game:</p>
         <ol>
             <li>Clone this repository to your local machine using the following command:</li>
-            <pre><code>git clone https://github.com/yourusername/catch-ball-game.git</code></pre>
+            <pre><code>git clone https://github.com/wasayfaizan/BallCatcher.git</code></pre>
             <li>Install the required dependencies:</li>
             <pre><code>pip install opencv-python mediapipe pygame numpy</code></pre>
             <li>Run the game script:</li>
