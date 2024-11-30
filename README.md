@@ -40,8 +40,6 @@
             <li><code>main.py</code>: The main game script.</li>
             <li><code>README.html</code>: This readme file with instructions.</li>
         </ul>
-    <footer>
-        <p>&copy; 2024 BallCatcher Game</p>
-    </footer>
+   
 </body>
 </html>
